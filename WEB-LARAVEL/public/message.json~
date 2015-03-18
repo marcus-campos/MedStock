@@ -1,0 +1,34 @@
+{
+	"GERAL_TXT000":">>>Textos usados para diversas paginas do sistema<<<.",
+
+	"GERAL_TXT001":"Teste.",
+
+	"GERAL_MSG000":">>>Mensagens usadas para diversas paginas do sistema<<<.",
+
+	"GERAL_MSG001":"O registro não pode ser salvo. Verifique os erros e tente novamente.",
+	"GERAL_MSG002":"O registro foi salvo com sucesso!",
+	"GERAL_MSG003":"O registro procurado não pode ser encontrado. Tente novamente.",
+	"GERAL_MSG004":"O registro não pode ser atualizado. Verifique os erros e tente novamente.",
+	"GERAL_MSG005":"O registro não foi atualizado com sucesso!",
+	"GERAL_MSG006":"O registro foi apagado com sucesso!",
+
+	"LOGIN_TXT000":">>>Textos usados para a pagina de login<<<.",
+
+	"LOGIN_TXT001":"Entrar no Saidjur",
+	"LOGIN_TXT002":"Entrar",
+	"LOGIN_TXT003":"Ou",
+	"LOGIN_TXT004":"Criar uma conta",
+	"LOGIN_TXT005":"Algum problema para entrar?",
+	"LOGIN_TXT006":"Lembrar meu usuário",
+	"LOGIN_TXT007":"Usuário",
+	"LOGIN_TXT008":"Senha",
+
+
+	"LOGIN_MSG000":">>>Mensagens usadas para a pagina de login<<<.",
+
+	"LOGIN_MSG001":"Usuário desativado do sistema.",
+	"LOGIN_MSG002":"Você foi logado com sucesso!",
+	"LOGIN_MSG003":"Login ou senha incorretos.",
+	"LOGIN_MSG004":"Você foi desconectado do sistema."
+
+}
