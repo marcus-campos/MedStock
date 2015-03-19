@@ -66,6 +66,7 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `medstock`.`estoque_items` (
   `idestoque_items` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(255) NOT NULL,
+   `foto` blub,
   `quantidade` DOUBLE(10,2) NULL,
   `lote` VARCHAR(50) NULL,
   `medida` VARCHAR(100) NULL,
